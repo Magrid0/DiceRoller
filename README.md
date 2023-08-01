@@ -5,11 +5,7 @@
 
   <p align="center">
     A CLI dice roller for when you don't have your dice
-    <br/>
-    <br/>
-    
-    <br/>
-    <br/>
+
     <a href="https://github.com/Magrid0/DiceRoller/issues">Report Bug</a>
     .
     <a href="https://github.com/Magrid0/DiceRoller/issues">Request Feature</a>
