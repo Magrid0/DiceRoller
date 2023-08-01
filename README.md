@@ -1,6 +1,7 @@
 <br/>
 <p align="center">
   <h3 align="center">Try your luck and roll the dice</h3>
+  <img src="src/icon.ico" alt="Logo" width="80" height="80">
 
   <p align="center">
     A CLI dice roller for when you don't have your dice
