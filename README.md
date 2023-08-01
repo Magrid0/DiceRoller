@@ -7,7 +7,7 @@
     A CLI dice roller for when you don't have your dice
     <br/>
     <br/>
-    <a href="https://github.com/Magrid0/DiceRoller"><strong>Explore the docs »</strong></a>
+    
     <br/>
     <br/>
     <a href="https://github.com/Magrid0/DiceRoller/issues">Report Bug</a>
