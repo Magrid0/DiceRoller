@@ -1,11 +1,12 @@
 <br/>
 <p align="center">
-  <h3 align="center">Try your luck and roll the dice</h3>
   <img src="src/icon.ico" alt="Logo" width="80" height="80">
+  <h3 align="center">Try your luck and roll the dice</h3>
 
   <p align="center">
     A CLI dice roller for when you don't have your dice
-
+    <br/>
+    <br/>
     <a href="https://github.com/Magrid0/DiceRoller/issues">Report Bug</a>
     .
     <a href="https://github.com/Magrid0/DiceRoller/issues">Request Feature</a>
@@ -58,4 +59,5 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **Magrid** - ** - [Magrid](https://github.com/Magrid0) - **
+* **Magrid** - ** - [Magrid](https://github
+* .com/Magrid0) - **
