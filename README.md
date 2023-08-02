@@ -47,7 +47,7 @@ To get a local copy up and running follow these simple example steps.
 *.jar*:
 1) Download the jar file
 2) Open your terminal
-3) Type '''java -jar DiceRoller.jar'''
+3) Type ```java -jar DiceRoller.jar```
 
 ## Contributing
 
