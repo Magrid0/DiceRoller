@@ -28,7 +28,7 @@ public class Main {
 
             // Validate the user's choice.
             while (GlobalVariables.choice < 1 || GlobalVariables.choice > 7) {
-                System.out.println("Invalid choice. Please enter a valid choice (1-7).");
+                System.out.print("Invalid choice. Please enter a valid choice (1-7): ");
                 GlobalVariables.choice = Integer.parseInt(scanner.nextLine());
             }
 
