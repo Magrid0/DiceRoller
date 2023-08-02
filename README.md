@@ -40,7 +40,14 @@ To get a local copy up and running follow these simple example steps.
 
 ## Usage
 
-Just select the type of dice you want to roll.
+*.exe*:
+1) Download the executable
+2) Double click it
+
+*.jar*:
+1) Download the jar file
+2) Open your terminal
+3) Type ```java -jar DiceRoller.jar```
 
 ## Contributing
 
